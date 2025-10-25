@@ -45,8 +45,6 @@ Direct connection: CIRCUIT DIAGRAM: ![EXP-3 IMG1](https://github.com/user-attach
 ![EXP-3 PAGE-2](https://github.com/user-attachments/assets/c5e19b41-cebb-4e28-bde8-5e715ab5dc3f)
 ![EXP-3 PAGE-3](https://github.com/user-attachments/assets/f4a3e9c3-7d90-4a38-a81f-cac2c17edbc2)
 
-RESULT:
-Thus the staircase wiring is connected and tested.
 
 RESULT:
 Thus the staircase wiring is connected and tested.
